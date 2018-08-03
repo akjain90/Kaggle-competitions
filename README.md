@@ -3,7 +3,8 @@
 1). Digit recognizer: 
 <br>
 Competition link: https://www.kaggle.com/c/digit-recognizer
-Kernel link: 
+<br>
+Kernel link: https://www.kaggle.com/akjain90/mnist-classifier
 <br>
 MNIST Dataset;
 Python and tensorflow;
